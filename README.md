@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Jacinta Chege](https://github.com/Jess-chege/moringa-school-project)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
